@@ -3,7 +3,7 @@
 
 ## Description
 
-Horiseon - Social Solution Services requested improvements to their webpage with an emphisis on web accessibility standards. Below are the changes considered when making these updates:
+Refactoring Horiseon - Social Solution Services' webpage to make it more accessible. Below the acceptance criteria taken into consideration:
 
 - webpage meets accessibility standards
 - source code includes semantic HTML elements
